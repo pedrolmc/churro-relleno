@@ -1,2 +1,2 @@
 # churro-relleno
-cajeta, fresa, chocolate, lechera
+cajeta, fresa, chocolate, lechera, guayaba
